@@ -1,0 +1,19 @@
+{
+  "name": "checkers",
+  "version": "1.0.0",
+  "description": "online checkers game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmoshecrow/checkers.git"
+  },
+  "author": "dovid moshe crow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmoshecrow/checkers/issues"
+  },
+  "homepage": "https://github.com/davidmoshecrow/checkers#readme"
+}
